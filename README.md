@@ -30,7 +30,7 @@ This version introduces the first snippets of **Lazy-LaTeX** project.
 
 -----------------------------------------------------------
 ### Project content
-The complete documentation is available in the [**wiki**](https://github.com/MartinDbx/Lazy-LaTeX/wiki)).
+The complete documentation is available in the [**wiki**](https://github.com/MartinDbx/Lazy-LaTeX/wiki).
 
 -----------------------------------------------------------
 ### Installation
