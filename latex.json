@@ -108,7 +108,7 @@
     "description": "⟶"
 },
 "long left right arrow": {
-    "prefix": "lra",
+    "prefix": "llra",
     "body": "\\longleftrightarrow ",
     "description": "⟷"
 },
