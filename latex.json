@@ -1,0 +1,591 @@
+{	"Display math": {
+    "prefix": "dm",
+    "body": "\\[\n\t$0\n\\]",
+    "description": "Display math"
+},
+"Inline math": {
+    "prefix": "mk",
+    "body": ["\\$ $0 \\$"],
+    "description": "Inline math"
+},
+"Clipboard display math": {
+    "prefix": "cdm",
+    "body": "\\[\n\t$CLIPBOARD\n\\]",
+    "description": "display math with the content of the clipboard"
+},
+"Clipboard inline math": {
+    "prefix": "cmk",
+    "body": "\\$ $CLIPBOARD \\$",
+    "description": "inline math with the content of the clipboard"
+},
+"Theorem": {
+    "prefix": "ETH",
+    "body": "\\begin{theorem}\n\t$0\n\\end{theorem}",
+    "description": "Theorem environment"
+},
+"Lemma": {
+    "prefix": "ELE",
+    "body": "\\begin{lemma}\n\t$0\n\\end{lemma}",
+    "description": "Lemma environment"
+},
+"Proposition": {
+    "prefix": "EPR",
+    "body": "\\begin{proposition}\n\t$0\n\\end{proposition}",
+    "description": "Proposition environment"
+},
+"Corollary": {
+    "prefix": "ECO",
+    "body": "\\begin{corollary}\n\t$0\n\\end{corollary}",
+    "description": "Corollary environment"
+},
+"Definiton": {
+    "prefix": "EDE",
+    "body": "\\begin{definition}\n\t$0\n\\end{definition}",
+    "description": "Definition environment"
+},
+"Proof": {
+    "prefix": "EPF",
+    "body": "\\begin{proof}\n\t$0\n\\end{proof}",
+    "description": "Proof"
+},
+"Begin": {
+    "prefix": "beg",
+    "body": "\\begin{$1}\n\t$0\n\\end{$1}",
+    "description": "create a new environment"
+},
+"Remarque": {
+    "prefix": "rmq",
+    "body": "\\paragraph{Remarque.} $0",
+    "description": "Remarque"
+},
+"Exemple": {
+    "prefix": "ex",
+    "body": "\\paragraph{Exemple.} $0",
+    "description": "Exemple"
+},
+"Exercice": {
+    "prefix": "exo",
+    "body": "\\paragraph{Exercice.} $0",
+    "description": "Exercice"
+},
+"Rappel": {
+    "prefix": "rap",
+    "body": "\\paragraph{Rappel.} $0",
+    "description": "Rappel"
+},
+"Consequence": {
+    "prefix": "csq",
+    "body": "\\paragraph{Conséquence.} $0",
+    "description": "Conséquence"
+},
+
+
+
+
+"left arrow": {
+    "prefix": "la",
+    "body": "\\leftarrow ",
+    "description": "←"
+},
+"right arrow": {
+    "prefix": "ra",
+    "body": "\\rightarrow ",
+    "description": "→"
+},
+"left right arrow": {
+    "prefix": "lra",
+    "body": "\\leftrightarrow ",
+    "description": "↔︎"
+},
+"long left arrow": {
+    "prefix": "lla",
+    "body": "\\longleftarrow ",
+    "description": "⟵"
+},
+"long right arrow": {
+    "prefix": "lra",
+    "body": "\\longrightarrow ",
+    "description": "⟶"
+},
+"long left right arrow": {
+    "prefix": "lra",
+    "body": "\\longleftrightarrow ",
+    "description": "⟷"
+},
+"Left arrow": {
+    "prefix": "La",
+    "body": "\\Leftarrow ",
+    "description": "⇐"
+},
+"Right arrow" : {
+    "prefix": "Ra",
+    "body": "\\Rightarrow ",
+    "description": "⇒"
+},
+"If and only if": {
+    "prefix": "iff",
+    "body": "\\Leftrightarrow ",
+    "description": "⇔"
+},
+"Long left arrow": {
+    "prefix": "Lla",
+    "body": "\\Longleftarrow ",
+    "description": "⟸"
+},
+"Long right arrow": {
+    "prefix": "Lra",
+    "body": "\\Longrightarrow ",
+    "description": "⟹"
+},
+"Long left right arrow": {
+    "prefix": "Llra",
+    "body": "\\Longleftrightarrow ",
+    "description": "⟺"
+},
+"Injective function arrow": {
+    "prefix": "ia",
+    "body": "\\hookrightarrow ",
+    "description": "↪︎"},
+"Surjective function arrow": {
+    "prefix": "sa",
+    "body": "\\twoheadrightarrow ",
+    "description": "↠"},
+"Bijective function arrow": {
+    "prefix": "ba",
+    "body": "\\overset{\\sim}{\\longrightarrow} ",
+    "description": "⥲"
+},
+
+
+
+
+"mathrm": {
+    "prefix": "rm",
+    "body": "\\mathrm{$1}",
+    "description": "mathrm font"
+},
+"mathit": {
+    "prefix": "it",
+    "body": "\\mathit{$1}",
+    "description": "mathit font"
+},
+"mathnormal": {
+    "prefix": "no",
+    "body": "\\mathnormal{$1}",
+    "description": "mathnormal font"
+},
+"mathcal": {
+    "prefix": "cal",
+    "body": "\\mathcal{$1}",
+    "description": "mathcal font"
+},
+"mathscr": {
+    "prefix": "scr",
+    "body": "\\mathscr{$1}",
+    "description": "mathsrc font."
+},
+"mathbb": {
+    "prefix": "bb",
+    "body": "\\mathbb{$1}",
+    "description": "mathbb font"
+},
+"varmathrm": {
+    "prefix": "varbb",
+    "body": "\\varmathbb{$1}",
+    "description": "varmathbb font"
+},
+"mathds": {
+    "prefix": "ds",
+    "body": "\\mathds{$1}",
+    "description": "mathds font"
+},
+"mathfrak": {
+    "prefix": "frak",
+    "body": "\\mathfrak{$1}",
+    "description": "mathfrak font"
+},
+"textgoth": {
+    "prefix": "goth",
+    "body": "\\textgoth{$1}",
+    "description": "textgoth font"
+},
+
+
+
+
+"Field": {
+    "prefix": "bbf",
+    "body": "\\IF",
+    "description": "𝔽"
+},
+"Corps": {
+    "prefix": "bbk",
+    "body": "\\IK ",
+    "description": "𝕂"
+},
+"Natural": {
+    "prefix": "bbn",
+    "body": "\\IN ",
+    "description": "ℕ"
+},
+"Prime": {
+    "prefix": "bbp",
+    "body": "\\IP ",
+    "description": "ℙ"
+},
+"Integer": {
+    "prefix": "bbz",
+    "body": "\\IZ ",
+    "description": "ℤ"
+},
+"Rational": {
+    "prefix": "bbq",
+    "body": "\\IQ ",
+    "description": "ℚ"
+},
+"Real": {
+    "prefix": "bbr",
+    "body": "\\IR",
+    "description": "ℝ"
+},
+"Complex": {
+    "prefix": "bbc",
+    "body": "\\IC ",
+    "description": "ℂ"
+},
+"Sphere": {
+    "prefix": "bbs",
+    "body": "\\IS ",
+    "description": "𝕊"
+},
+"ZnZ": {
+    "prefix": "znz",
+    "body": "\\ZnZ{$1} ",
+    "description": "ℤ/nℤ"
+},
+
+
+
+
+"alpha": {
+    "prefix": "alpha",
+    "body": "\\alpha ",
+    "description": "α"
+},
+"beta": {
+    "prefix": "beta",
+    "body": "\\beta ",
+    "description": "β"
+},
+"gamma": {
+    "prefix": "gamma",
+    "body": "\\gamma ",
+    "description": "γ"
+},
+"delta": {
+    "prefix": "delta",
+    "body": "\\delta ",
+    "description": "δ"
+},
+"epsilon": {
+    "prefix": "epsilon",
+    "body": "\\varepsilon ",
+    "description": "ε"
+},
+"zeta": {
+    "prefix": "zeta",
+    "body": "\\zeta ",
+    "description": "ζ"
+},
+"eta": {
+    "prefix": "eta",
+    "body": "\\eta ",
+    "description": "η"
+},
+"theta": {
+    "prefix": "theta",
+    "body": "\\theta ",
+    "description": "θ"},
+"iota": {
+    "prefix": "iota",
+    "body": "\\iota ",
+    "description": "ι"
+},
+"kappa": {
+    "prefix": "kappa",
+    "body": "\\kappa ",
+    "description": "κ"
+},
+"lambda": {
+    "prefix": "lambda",
+    "body": "\\lambda ",
+    "description": "λ"
+},
+"mu": {
+    "prefix": "mu",
+    "body": "\\mu ",
+    "description": "μ"
+},
+"nu": {
+    "prefix": "nu",
+    "body": "\\nu ",
+    "description": "ν"
+},
+"xi": {
+    "prefix": "xi",
+    "body": "\\xi ",
+    "description": "ξ"
+},
+"omicron": {
+    "prefix": "omicron",
+    "body": "\\omicron ",
+    "description": "ο"
+},
+"pi": {
+    "prefix": "pi",
+    "body": "\\pi ",
+    "description": "π"
+},
+"rho": {
+    "prefix": "rho",
+    "body": "\\rho ",
+    "description": "ρ"
+},
+"sigma": {
+    "prefix": "sigma",
+    "body": "\\sigma ",
+    "description": "σ"
+},
+"tau": {
+    "prefix": "tau",
+    "body": "\\tau ",
+    "description": "τ"
+},
+"upsilon": {
+    "prefix": "upsilon",
+    "body": "\\upsilon ",
+    "description": "υ"
+},
+"phi": {
+    "prefix": "phi",
+    "body": "\\varphi ",
+    "description": "𝝋"
+},
+"chi": {
+    "prefix": "chi",
+    "body": "\\chi ",
+    "description": "χ"
+},
+"psi": {
+    "prefix": "psi",
+    "body": "\\psi ",
+    "description": "ψ"
+},
+"omega": {
+    "prefix": "omega",
+    "body": "\\omega ",
+    "description": "ω"
+},
+"Gamma": {
+    "prefix": "Gamma",
+    "body": "\\Gamma ",
+    "description": "Γ"
+},
+"Delta": {
+    "prefix": "Delta",
+    "body": "\\Delta ",
+    "description": "Δ"
+},
+"Lamdba": {
+    "prefix": "Lambda",
+    "body": "\\Lambda ",
+    "description": "Λ"},
+"Phi": {
+    "prefix": "Phi",
+    "body": "\\Phi ",
+    "description": "Φ"
+},
+"Pi": {
+    "prefix": "Pi",
+    "body": "\\Pi ",
+    "description": "Π"
+},
+"Psi": {
+    "prefix": "Psi",
+    "body": "\\Psi ",
+    "description": "Ψ"
+},
+"Sigma": {
+    "prefix": "Sigma",
+    "body": "\\Sigma ",
+    "description": "Σ"
+},
+"Theta": {
+    "prefix": "Theta",
+    "body": "\\Theta ",
+    "description": "Θ"
+},
+"Upsilon": {
+    "prefix": "Upsilon",
+    "body": "\\Upsilon ",
+    "description": "Υ"
+},
+"Xi": {
+    "prefix": "Xi",
+    "body": "\\Xi ",
+    "description": "Ξ"
+},
+"Omega": {
+    "prefix": "Omega",
+    "body": "\\Omega ",
+    "description": "Ω"
+},
+
+
+
+
+"sum": {
+    "prefix": "sum",
+    "body": "\\sum_{$1 = $2}^{$3}",
+    "description": "sum"
+},
+"prod": {
+    "prefix": "prod",
+    "body": "\\prod_{$1 = $2}^{$3} ",
+    "description": "product"
+},
+"lim": {
+    "prefix": "lim",
+    "body": "\\lim_{$1 \\rightarrow $2} ",
+    "description": "limit"
+},
+"int": {
+    "prefix": "int",
+    "body": "\\int_{$1}^{$2} $3 \\ \\mathrm{d} $0 ",
+    "description": "integral"
+},
+"set": {
+    "prefix": "set",
+    "body": "\\set{$1}{$2} ",
+    "description": "comprehensive set"
+},
+"vect": {
+    "prefix": "vect",
+    "body": "\\vect{$0}",
+    "description": "vector"
+},
+"Indice": {
+    "prefix": "__",
+    "body": "_{$0}",
+    "description": "subscript"
+},
+"Exposant": {
+    "prefix": "**",
+    "body": "^{$0}",
+    "description": "superscript"
+},
+"Norm": {
+    "prefix": "norm",
+    "body": "\\|$1\\|",
+    "description": "norm"
+},
+"Abs": {
+    "prefix": "abs",
+    "body": "|$1|",
+    "description": "absolute value"
+},
+"Infinity": {
+    "prefix": "ooo",
+    "body": "\\infty",
+    "description": "∞"
+},
+"Fraction": {
+    "prefix": "frac",
+    "body": "\\frac{$1}{$2}",
+    "description": "fraction"
+},
+
+
+
+
+"vdash": {
+    "prefix": "vdash",
+    "body": "\\vdash ",
+    "description": "⊢"
+},
+"models": {
+    "prefix": "models",
+    "body": "\\models ",
+    "description": "⊨"
+},
+"not": {
+    "prefix": "not",
+    "body": "\\not ",
+    "description": "∕"
+},
+"forall": {
+    "prefix": "forall",
+    "body": "\\forall ",
+    "description": "∀"
+},
+"exists": {
+    "prefix": "exists",
+    "body": "\\exists ",
+    "description": "∃"
+},
+"in": {
+    "prefix": "in",
+    "body": "\\in ",
+    "description": "∈"
+},
+"subset": {
+    "prefix": "subset",
+    "body": "\\subset ",
+    "description": "⊂"
+},
+"subseteq": {
+    "prefix": "subseteq",
+    "body": "\\subseteq ",
+    "description": "⊆"
+},
+"supset": {
+    "prefix": "supset",
+    "body": "\\supset ",
+    "description": "⊃"
+},
+"supseteq": {
+    "prefix": "supseteq",
+    "body": "\\supseteq ",
+    "description": "⊇"
+},
+"neq": {
+    "prefix": "neq",
+    "body": "\\neq ",
+    "description": "≠"
+},
+"neg": {
+    "prefix": "neg",
+    "body": "\\neg ",
+    "description": "¬"
+},
+"equiv": {
+    "prefix": "equiv",
+    "body": "\\equiv ",
+    "description": "≡"
+},
+"Th": {
+    "prefix": "Th",
+    "body": "\\Th ",
+    "description": "Theory"
+},
+"Conseq": {
+    "prefix": "Conseq",
+    "body": "\\Conseq ",
+    "description": "Consequence"
+},
+"Frechet": {
+    "prefix": "Frechet",
+    "body": "\\Frechet ",
+    "description": "Frêchet"
+}
+}
