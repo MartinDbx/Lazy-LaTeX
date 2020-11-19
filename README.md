@@ -1,7 +1,7 @@
 # Lazy LaTeX
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MartinDbx/lazy-latex)
-![version](https://img.shields.io/badge/version-2.0.0-blue)
+![version](https://img.shields.io/badge/version-1.0.0-blue)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 Ultimate LaTeX snippets for **Visual Studio Code**
@@ -30,7 +30,7 @@ This version introduces the first snippets of **Lazy-LaTeX** project.
 
 -----------------------------------------------------------
 ### Project content
-The complete documentation is available in the [**wiki**]([resources/documentation.pdf](https://github.com/MartinDbx/Lazy-LaTeX/wiki)).
+The complete documentation is available in the [**wiki**](https://github.com/MartinDbx/Lazy-LaTeX/wiki)).
 
 -----------------------------------------------------------
 ### Installation
