@@ -98,17 +98,17 @@
     "description": "↔︎"
 },
 "long left arrow": {
-    "prefix": "lla",
+    "prefix": "bla",
     "body": "\\longleftarrow ",
     "description": "⟵"
 },
 "long right arrow": {
-    "prefix": "lra",
+    "prefix": "bra",
     "body": "\\longrightarrow ",
     "description": "⟶"
 },
 "long left right arrow": {
-    "prefix": "llra",
+    "prefix": "blra",
     "body": "\\longleftrightarrow ",
     "description": "⟷"
 },
@@ -128,17 +128,17 @@
     "description": "⇔"
 },
 "Long left arrow": {
-    "prefix": "Lla",
+    "prefix": "Bla",
     "body": "\\Longleftarrow ",
     "description": "⟸"
 },
 "Long right arrow": {
-    "prefix": "Lra",
+    "prefix": "Bra",
     "body": "\\Longrightarrow ",
     "description": "⟹"
 },
 "Long left right arrow": {
-    "prefix": "Llra",
+    "prefix": "Blra",
     "body": "\\Longleftrightarrow ",
     "description": "⟺"
 },
@@ -587,5 +587,5 @@
     "prefix": "Frechet",
     "body": "\\Frechet ",
     "description": "Frêchet"
-}
+},
 }
