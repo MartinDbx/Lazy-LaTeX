@@ -1,0 +1,134 @@
+{
+    "Xwriter - Algorithm": {
+		"prefix": "algorithm",
+		"body": "\\begin{algorithm*}\n\t$0\n\\end{algorithm*}"
+	},
+	"Xwriter - Assumption": {
+		"prefix": "Assumption",
+		"body": "\\begin{assumption*}\n\t$0\n\\end{assumption*}"
+	},
+	"Xwriter - Assumptions": {
+		"prefix": "assumptions",
+		"body": "\\begin{assumptions*}\n\t$0\n\\end{assumptions*}"
+	},
+	"Xwriter - Axiom": {
+		"prefix": "axiom",
+		"body": "\\begin{axiom*}\n\t$0\n\\end{axiom*}"
+	},
+	"Xwriter - Axioms": {
+		"prefix": "axioms",
+		"body": "\\begin{axioms*}\n\t$0\n\\end{axioms*}"
+	},
+	"Xwriter - Corollary": {
+		"prefix": "corollary",
+		"body": "\\begin{corollary*}\n\t$0\n\\end{corollary*}"
+	},
+	"Xwriter - Claim": {
+		"prefix": "claim",
+		"body": "\\begin{claim*}\n\t$0\n\\end{claim*}"
+	},
+	"Xwriter - Claims": {
+		"prefix": "claims",
+		"body": "\\begin{claims*}\n\t$0\n\\end{claims*}"
+	},
+	"Xwriter - Conclusion": {
+		"prefix": "conclusion",
+		"body": "\\begin{conclusion*}\n\t$0\n\\end{conclusion*}"
+	},
+	"Xwriter - Conjecture": {
+		"prefix": "conjecture",
+		"body": "\\begin{conjecture*}\n\t$0\n\\end{conjecture*}"
+	},
+	"Xwriter - Definiton": {
+		"prefix": "definiton",
+		"body": "\\begin{definiton*}\n\t$0\n\\end{definiton*}"
+	},
+	"Xwriter - Example": {
+		"prefix": "example",
+		"body": "\\begin{example*}\n\t$0\n\\end{example*}"
+	},
+	"Xwriter - Examples": {
+		"prefix": "examples",
+		"body": "\\begin{examples*}\n\t$0\n\\end{examples*}"
+	},
+	"Xwriter - Exercice": {
+		"prefix": "exercise",
+		"body": "\\begin{exercise*}\n\t$0\n\\end{exercise*}"
+	},
+	"Xwriter - Exercices": {
+		"prefix": "exercises",
+		"body": "\\begin{exercises*}\n\t$0\n\\end{exercises*}"
+	},
+	"Xwriter - Hypothesis": {
+		"prefix": "hypothesis",
+		"body": "\\begin{hypothesis*}\n\t$0\n\\end{hypothesis*}"
+	},
+	"Xwriter - Hypotheses": {
+		"prefix": "hypotheses",
+		"body": "\\begin{hypotheses*}\n\t$0\n\\end{hypotheses*}"
+	},
+	"Xwriter - Lemma": {
+		"prefix": "lemma",
+		"body": "\\begin{lemma*}\n\t$0\n\\end{lemma*}"
+	},
+	"Xwriter - Nota Bene": {
+		"prefix": "notabene",
+		"body": "\\begin{notabene*}\n\t$0\n\\end{notabene*}"
+	},
+	"Xwriter - Note": {
+		"prefix": "note",
+		"body": "\\begin{note*}\n\t$0\n\\end{note*}"
+	},
+	"Xwriter - Notes": {
+		"prefix": "notes",
+		"body": "\\begin{notes*}\n\t$0\n\\end{notes*}"
+	},
+	"Xwriter - Problem": {
+		"prefix": "Problem",
+		"body": "\\begin{Problem*}\n\t$0\n\\end{Problem*}"
+	},
+	"Xwriter - Property": {
+		"prefix": "property",
+		"body": "\\begin{property*}\n\t$0\n\\end{property*}"
+	},
+	"Xwriter - Properties": {
+		"prefix": "properties",
+		"body": "\\begin{properties*}\n\t$0\n\\end{properties*}"
+	},
+	"Xwriter - Proposition": {
+		"prefix": "proposition",
+		"body": "\\begin{proposition*}\n\t$0\n\\end{proposition*}"
+	},
+	"Xwriter - Summary": {
+		"prefix": "summary",
+		"body": "\\begin{summary*}\n\t$0\n\\end{summary*}"
+	},
+	"Xwriter - Question": {
+		"prefix": "question",
+		"body": "\\begin{question*}\n\t$0\n\\end{question*}"
+	},
+	"Xwriter - Questions": {
+		"prefix": "questions",
+		"body": "\\begin{questions*}\n\t$0\n\\end{questions*}"
+	},
+	"Xwriter - Recall": {
+		"prefix": "recall",
+		"body": "\\begin{recall*}\n\t$0\n\\end{recall*}"
+	},
+	"Xwriter - Recalls": {
+		"prefix": "recalls",
+		"body": "\\begin{recalls*}\n\t$0\n\\end{recalls*}"
+	},
+	"Xwriter - Remark": {
+		"prefix": "remark",
+		"body": "\\begin{remark*}\n\t$0\n\\end{remark*}"
+	},
+	"Xwriter - Remarks": {
+		"prefix": "remarks",
+		"body": "\\begin{remarks*}\n\t$0\n\\end{remarks*}"
+	},
+	"Xwriter - Theorem": {
+		"prefix": "theorem",
+		"body": "\\begin{theorem*}\n\t$0\n\\end{theorem*}"
+	}
+}

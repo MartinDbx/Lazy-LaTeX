@@ -1,0 +1,14 @@
+{
+    "Xwriter - Proof": {
+		"prefix": "proof",
+		"body": "\\begin{proof}\n\t$0\n\\end{proof}"
+	},
+	"Xwriter - Resolution": {
+		"prefix": "resolution",
+		"body": "\\begin{resolution}\n\t$0\n\\end{resolution}"
+	},
+	"Xwriter - Solution": {
+		"prefix": "solution",
+		"body": "\\begin{solution}\n\t$0\n\\end{solution}"
+	}
+}
