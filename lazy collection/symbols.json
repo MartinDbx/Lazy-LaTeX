@@ -1,0 +1,10 @@
+{
+    "lazy - Norm": {
+        "prefix": "norm",
+        "body": "\\|$0\\|"
+    },
+    "lazy - Absolute value": {
+        "prefix": "abs",
+        "body": "|$0|"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "lazy - Display math": {
+    "prefix": "dm",
+    "body": "\\[\n\t$0\n\\]",
+    "description": "Display math mode"
+    },
+    "lazy - Inline math": {
+        "prefix": "mk",
+        "body": ["\\$ $0 \\$"],
+        "description": "Inline math mode"
+    },
+    "lazy - Clipboard display math": {
+        "prefix": "cdm",
+        "body": "\\[\n\t$CLIPBOARD\n\\]",
+        "description": "Display math with the content of the clipboard"
+    },
+    "lazy - Clipboard inline math": {
+        "prefix": "cmk",
+        "body": "\\$ $CLIPBOARD \\$",
+        "description": "Inline math with the content of the clipboard"
+    },
+    "lazy - Enumerate": {
+        "prefix": "enumerate",
+        "body": "\\begin{enumerate}\n\t\\item $0\n\\end{enumerate}",
+        "description": "Enumerate environment"
+    },
+    "lazy - Itemize": {
+        "prefix": "itemize",
+        "body": "\\begin{itemize}\n\t\\item $0\n\\end{itemize}",
+        "description": "Itemize environment"
+    },
+    "lazy - Begin": {
+        "prefix": "beg",
+        "body": "\\begin{$1}\n\t$0\n\\end{$1}",
+        "description": "create a new environment"
+    }
+}

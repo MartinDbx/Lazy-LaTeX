@@ -1,0 +1,26 @@
+{
+    "lazy - Quad": {
+        "prefix": "quad",
+        "body": "\\quad "
+    },
+    "lazy - ssi": {
+        "prefix": "ssi",
+        "body": "si et seulement si "
+    },
+    "lazy - quad ssi quad": {
+        "prefix": "qssi",
+        "body": "\\quad\\text{ssi}\\quad"
+    },
+    "lazy - quad ou quad": {
+        "prefix": "qou",
+        "body": "\\quad\\text{ou}\\quad"
+    },
+    "lazy - quad et quad": {
+        "prefix": "qet",
+        "body": "\\quad\\text{et}\\quad"
+    },
+    "lazy - Small set minus": {
+        "prefix": "smallsetminus",
+        "body": "\\smallsetminus"
+    }
+}

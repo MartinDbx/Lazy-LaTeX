@@ -1,0 +1,72 @@
+{
+    "lazy - left arrow": {
+        "prefix": "la",
+        "body": "\\leftarrow ",
+        "description": "←"
+    },
+    "lazy - right arrow": {
+        "prefix": "ra",
+        "body": "\\rightarrow ",
+        "description": "→"
+    },
+    "lazy - left right arrow": {
+        "prefix": "lra",
+        "body": "\\leftrightarrow ",
+        "description": "↔︎"
+    },
+    "lazy - long left arrow": {
+        "prefix": "bla",
+        "body": "\\longleftarrow ",
+        "description": "⟵"
+    },
+    "lazy - long right arrow": {
+        "prefix": "bra",
+        "body": "\\longrightarrow ",
+        "description": "⟶"
+    },
+    "lazy - long left right arrow": {
+        "prefix": "blra",
+        "body": "\\longleftrightarrow ",
+        "description": "⟷"
+    },
+    "lazy - Left arrow": {
+        "prefix": "La",
+        "body": "\\Leftarrow ",
+        "description": "⇐"
+    },
+    "lazy - Right arrow" : {
+        "prefix": "Ra",
+        "body": "\\Rightarrow ",
+        "description": "⇒"
+    },
+    "lazy - If and only if": {
+        "prefix": "iff",
+        "body": "\\Leftrightarrow ",
+        "description": "⇔"
+    },
+    "lazy - Long left arrow": {
+        "prefix": "Bla",
+        "body": "\\Longleftarrow ",
+        "description": "⟸"
+    },
+    "lazy - Long right arrow": {
+        "prefix": "Bra",
+        "body": "\\Longrightarrow ",
+        "description": "⟹"
+    },
+    "lazy - Long left right arrow": {
+        "prefix": "Blra",
+        "body": "\\Longleftrightarrow ",
+        "description": "⟺"
+    },
+    "lazy - Injective function arrow": {
+        "prefix": "ia",
+        "body": "\\hookrightarrow ",
+        "description": "↪︎"
+    },
+    "lazy - Surjective function arrow": {
+        "prefix": "sa",
+        "body": "\\twoheadrightarrow ",
+        "description": "↠"
+    }
+}

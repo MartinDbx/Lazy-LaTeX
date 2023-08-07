@@ -1,0 +1,32 @@
+{
+    "lazy - mathcal": {
+        "prefix": "cal",
+        "body": "\\mathcal{$1}",
+        "description": "mathcal font"
+    },
+    "lazy - mathscr": {
+        "prefix": "scr",
+        "body": "\\mathscr{$1}",
+        "description": "mathsrc font."
+    },
+    "lazy - mathbb": {
+        "prefix": "bb",
+        "body": "\\mathbb{$1}",
+        "description": "mathbb font"
+    },
+    "lazy - mathds": {
+        "prefix": "ds",
+        "body": "\\mathds{$1}",
+        "description": "mathds font"
+    },
+    "lazy - mathfrak": {
+        "prefix": "frak",
+        "body": "\\mathfrak{$1}",
+        "description": "mathfrak font"
+    },
+    "lazy - textgoth": {
+        "prefix": "goth",
+        "body": "\\textgoth{$1}",
+        "description": "textgoth font"
+    }
+}
