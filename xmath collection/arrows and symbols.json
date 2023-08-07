@@ -1,0 +1,34 @@
+{
+    "Xmath - asign": {
+		"prefix": "asign",
+		"body": "\\asign "
+	},
+	"Xmath - hooklongrightarrow": {
+		"prefix": "hooklongrightarrow",
+		"body": "\\hooklongrightarrow "
+	},
+	"Xmath - longsimrightarrow": {
+		"prefix": "longsimrightarrow",
+		"body": "\\longsimrightarrow "
+	},
+	"Xmath - longtwoheadrightarrow": {
+		"prefix": "longtwoheadrightarrow",
+		"body": "\\longtwoheadrightarrow "
+	},
+	"Xmath - signa": {
+		"prefix": "signa",
+		"body": "\\signa "
+	},
+	"Xmath - simrightarrow": {
+		"prefix": "simrightarrow",
+		"body": "\\simrightarrow "
+	},
+	"Xmath - rest": {
+		"prefix": "rest",
+		"body": "\\rest{$1}{$2} "
+	},
+	"Xmath - widebar": {
+		"prefix": "widebar",
+		"body": "\\widebar{$1} "
+	}
+}

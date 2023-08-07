@@ -1,0 +1,42 @@
+{
+    "Xmath - Characteristic": {
+		"prefix": "Car",
+		"body": "\\Car"
+	},
+	"Xmath - Cardinality": {
+		"prefix": "card",
+		"body": "\\card"
+	},
+	"Xmath - Distance": {
+		"prefix": "dist",
+		"body": "\\dist"
+	},
+	"Xmath - Evalutation": {
+		"prefix": "ev",
+		"body": "\\ev"
+	},
+	"Xmath - Identity": {
+		"prefix": "Id",
+		"body": "\\Id"
+	},
+	"Xmath - Order": {
+		"prefix": "ord",
+		"body": "\\ord"
+	},
+	"Xmath - pgcd": {
+		"prefix": "pgcd",
+		"body": "\\pgcd"
+	},
+	"Xmath - ppcm": {
+		"prefix": "ppcm",
+		"body": "\\ppcm"
+	},
+	"Xmath - Signature": {
+		"prefix": "sign",
+		"body": "\\sign"
+	},
+	"Xmath - cis": {
+		"prefix": "cis",
+		"body": "\\cis"
+	}
+}

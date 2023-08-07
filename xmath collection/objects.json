@@ -1,0 +1,30 @@
+{
+    "Xmath - func": {
+		"prefix": "func",
+		"body": "\\func{$1}{$2}{$3}{$4}{$5} "
+	},
+	"Xmath - bfunc": {
+		"prefix": "bfunc",
+		"body": "\\bfunc{$1}{$2}{$3}{$4}{$5} "
+	},
+	"Xmath - afunc": {
+		"prefix": "afunc",
+		"body": "\\afunc{$1}{$2}{$3}{$4} "
+	},
+	"Xmath - abfunc": {
+		"prefix": "func",
+		"body": "\\abfunc{$1}{$2}{$3}{$4} "
+	},
+	"Xmath - link": {
+		"prefix": "link",
+		"body": "\\link{$1}{$2}{$3} "
+	},
+	"Xmath - alink": {
+		"prefix": "alink",
+		"body": "\\alink{$1}{$2} "
+	},
+	"Xmath - Vector": {
+		"prefix": "vect",
+		"body": "\\vect{$0} "
+	}
+}

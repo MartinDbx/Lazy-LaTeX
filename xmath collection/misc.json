@@ -1,0 +1,14 @@
+{
+    "Xmath - Xmath logo": {
+		"prefix": "Xmath",
+		"body": "\\Xmath "
+	},
+	"Xmath - ie": {
+		"prefix": "ie",
+		"body": "\\ie"
+	},
+	"Xmath - eg": {
+		"prefix": "eg",
+		"body": "\\eg"
+	}
+}

@@ -1,0 +1,82 @@
+{
+    "Xmath - Alterned": {
+		"prefix": "Alt",
+		"body": "\\Alt"
+	},
+	"Xmath - Automorphism": {
+		"prefix": "Aut",
+		"body": "\\Aut"
+	},
+	"Xmath - Domain": {
+		"prefix": "dom",
+		"body": "\\dom"
+	},
+	"Xmath - Galois": {
+		"prefix": "Gal",
+		"body": "\\Gal"
+	},
+	"Xmath - Generated": {
+		"prefix": "gen",
+		"body": "\\gen{$1} "
+	},
+	"Xmath - Groupe linéaire": {
+		"prefix": "GL",
+		"body": "\\GL"
+	},
+	"Xmath - Graph": {
+		"prefix": "Graph",
+		"body": "\\Graph"
+	},
+	"Xmath - Homomorphism": {
+		"prefix": "Hom",
+		"body": "\\Hom"
+	},
+	"Xmath - image": {
+		"prefix": "im",
+		"body": "\\im"
+	},
+	"Xmath - Interior": {
+		"prefix": "Int",
+		"body": "\\Int"
+	},
+	"Xmath - Orbit": {
+		"prefix": "Orb",
+		"body": "\\Orb"
+	},
+	"Xmath - Quotient": {
+		"prefix": "quot",
+		"body": "\\quot{$1}{$2} "
+	},
+	"Xmath - Range": {
+		"prefix": "range",
+		"body": "\\range{$1}{$2} "
+	},
+	"Xmath - Set": {
+		"prefix": "set",
+		"body": "\\set{$1 | $2} "
+	},
+	"Xmath - Special Linear": {
+		"prefix": "SL",
+		"body": "\\SL"
+	},
+	"Xmath - Special Orthogonal": {
+		"prefix": "SO",
+		"body": "\\SO"
+	},
+	"Xmath - Stabilizer": {
+		"prefix": "Stab",
+		"body": "\\Stab"
+	},
+	"Xmath - Sylow": {
+		"prefix": "Syl",
+		"body": "\\Syl"
+	},
+	"Xmath - Symmetric": {
+		"prefix": "Sym",
+		"body": "\\Sym"
+	},
+	"Xmath - 𝐙/n𝐙": {
+		"prefix": "ZnZ",
+		"body": "\\ZnZ{$1} "
+	}
+}
