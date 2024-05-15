@@ -4,7 +4,7 @@ Writing a LaTeX document can be time-consuming and tiring without shortcuts. Thi
 
 ## Usage
 
-LaTeX snippets are accessible from `Visual Studio Code > Preferences > User snippets > latex.json`. All you have to do is to paste the pieces of code you want on the `Visual Studio Code > Preferences > User snippets > latex.json` file.
+All you have to do is to paste the pieces of code you want on the `Visual Studio Code > Preferences > User snippets > latex.json` file.
 
 ## Notes
 
